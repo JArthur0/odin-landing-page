@@ -1,0 +1,28 @@
+/*{border: 1px solid red;}*/
+
+body{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto',Arial,serif;
+    justify-content: flex-start;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding: 0px 15px;
+    gap: 30px;
+}
+.hlogo{
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-right: auto;
+}
+.hlink{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+#header{
+    background-color: #1F2937;
+}
